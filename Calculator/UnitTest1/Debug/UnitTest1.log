@@ -1,0 +1,7 @@
+﻿  unittest1.cpp
+d:\c++ 2\calculator\unittest1\unittest1.cpp(16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\c++ 2\calculator\unittest1\unittest1.cpp(24): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\c++ 2\calculator\unittest1\unittest1.cpp(31): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\c++ 2\calculator\unittest1\unittest1.cpp(38): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  UnitTest1.vcxproj -> D:\C++ 2\Calculator\Debug\UnitTest1.dll
+  UnitTest1.vcxproj -> D:\C++ 2\Calculator\Debug\UnitTest1.pdb (Partial PDB)
